@@ -6,7 +6,7 @@
     <display-name>iShop</display-name>
     <servlet>
         <servlet-name>MainServlet</servlet-name>
-        <servlet-class>edu.java.ishop.web.MainServlet</servlet-class>
+        <servlet-class>edu.ishop.web.MainServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>MainServlet</servlet-name>

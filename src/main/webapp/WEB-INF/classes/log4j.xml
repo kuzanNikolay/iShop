@@ -21,7 +21,7 @@
         </layout>
     </appender>
 
-    <logger name="edu.java.ishop.dao" additivity="true">
+    <logger name="edu.ishop.dao" additivity="true">
         <level value="DEBUG"/>
         <appender-ref ref="FileDaoAppender"/>
     </logger>
